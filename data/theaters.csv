@@ -1,201 +1,201 @@
 theater_id,name,city,total_seats
-T0001,Hamilton-Tucker,Ryanbury,238
-T0002,Turner-Gilbert,North Dominique,207
-T0003,"Crawford, Fields and Bruce",Laurenshire,217
-T0004,Phillips-Hamilton,Ryanbury,242
-T0005,Decker and Sons,New Ronaldborough,151
-T0006,"Shelton, Gaines and Hooper",Devonland,261
-T0007,"Austin, Wagner and Edwards",Michaelville,121
-T0008,Frederick-Smith,Johnmouth,124
-T0009,Dillon LLC,Colonborough,224
-T0010,Smith-Mercer,Combschester,264
-T0011,Taylor Ltd,Michaelville,248
-T0012,Johnson-Murray,Josephside,262
-T0013,"Miller, Stout and Moss",Josephside,238
-T0014,"Johnson, Cline and Becker",East Laurie,107
-T0015,"Solis, Lozano and Gonzalez",West Dianeview,282
-T0016,"Wang, Lara and Harris",Ryanbury,253
-T0017,"Wilson, Jones and Lee",Devonland,153
-T0018,"Combs, Webb and Olson",Joelview,192
-T0019,Smith and Sons,Larsenshire,248
-T0020,Walker and Sons,Laurenshire,122
-T0021,"Hayes, Francis and Wade",Amyview,214
-T0022,Moon-Rose,Port Melissa,297
-T0023,Garcia-Wright,New Tammy,297
-T0024,Chapman Ltd,Lake Matthewmouth,190
-T0025,Buchanan-Kline,Williamtown,123
-T0026,Howard-Mcdonald,East Penny,251
-T0027,Newton Ltd,New Mariaside,100
-T0028,Hayes-Rasmussen,Port Melissa,288
-T0029,Solis LLC,New Ronaldborough,251
-T0030,"Scott, Randall and Cabrera",Devonland,260
-T0031,Glass-Johnson,New Danielmouth,120
-T0032,Rodriguez Inc,West Joshuaport,137
-T0033,Lawson-Morrow,West Dianeview,189
-T0034,"Tran, Terry and Thompson",Douglasstad,230
-T0035,Dennis-Flores,Devonland,174
-T0036,Buchanan-Robinson,Andersonchester,233
-T0037,"Copeland, King and Cain",Evansfort,109
-T0038,Cunningham-Carrillo,Jimenezville,205
-T0039,"Lee, Christian and Robinson",New Tammy,151
-T0040,Martinez LLC,West Dianeview,202
-T0041,Smith-Rogers,Gutierrezmouth,138
-T0042,Chavez-Butler,Ryanbury,239
-T0043,Moody Group,Port Melissa,259
-T0044,Cruz-Turner,Andersonchester,243
-T0045,"Collier, Lynn and Thomas",Port Dianaland,265
-T0046,Sampson-Coffey,West Caroline,182
-T0047,"Wolf, Costa and Gibbs",New Tammy,165
-T0048,"Richardson, Smith and Hart",Michaelville,121
-T0049,Schneider-Donaldson,Andersonchester,278
-T0050,Schmidt-Davis,Jeffersonberg,222
-T0051,"Wilson, Brewer and Parsons",East Penny,253
-T0052,Morrow-Parsons,Devonland,224
-T0053,Bean-Hays,Evansfort,124
-T0054,"Fuller, Arellano and Brooks",West Dianeview,146
-T0055,"Davis, Simmons and Holland",Ryanbury,295
-T0056,"Williams, Dudley and Galvan",Colonborough,190
-T0057,Horton-Daniels,Joelview,296
-T0058,Hoffman-Torres,Josephside,255
-T0059,York-Adams,Port Gabrielleport,109
-T0060,Haley Group,Amyview,222
-T0061,"Jackson, Jones and Martinez",Evansfort,160
-T0062,"Wright, Harris and Ramirez",Port Gabrielleport,219
-T0063,Romero LLC,Colonborough,266
-T0064,Porter PLC,New Mariaside,251
-T0065,Ali Ltd,North Dominique,273
-T0066,Castillo-Alexander,Michaelville,216
-T0067,Gonzales-Fowler,North Lisaberg,212
-T0068,"Garcia, Conrad and Spence",Colonborough,115
-T0069,Strickland-Bradley,Michaelview,140
-T0070,Murphy Ltd,North Jennifer,234
-T0071,Owens Inc,New Danielmouth,144
-T0072,"Steele, Foster and Johns",Lake Matthewmouth,149
-T0073,Farley-Wu,North Amanda,141
-T0074,"Flores, Mcdonald and Curtis",Angelafort,148
-T0075,Buchanan-Owen,Port Gabrielleport,292
-T0076,Patton-Mitchell,West Marcus,273
-T0077,Rich-Jacobs,East Laurie,128
-T0078,Pennington Group,New Tammy,170
-T0079,Smith-Munoz,Joelview,112
-T0080,"Simpson, Brown and Moon",Evansfort,182
-T0081,Rogers-Spencer,Salazarchester,214
-T0082,Sullivan Inc,Evansfort,186
-T0083,Pierce LLC,Rachelshire,155
-T0084,Jordan-Myers,Salazarchester,179
-T0085,Lane Group,Angelafort,158
-T0086,"Sheppard, Mendez and Williams",South Kathleen,166
-T0087,Coleman Ltd,Johnmouth,247
-T0088,"Edwards, Hughes and Richardson",North Amanda,181
-T0089,Castillo Inc,Laurenshire,260
-T0090,Reyes Group,Matthewmouth,236
-T0091,"Mccall, Barker and Joseph",Kimberlyside,228
-T0092,"Williams, Schmidt and Lane",Port Dianaland,121
-T0093,"Reed, Saunders and Jackson",Port Dianaland,153
-T0094,Freeman and Sons,Port Melissa,256
-T0095,Fields and Sons,Michaelville,136
-T0096,Marquez PLC,Kimberlyside,166
-T0097,Howard PLC,Johnmouth,160
-T0098,"Martin, Greene and Murphy",Evansfort,230
-T0099,Foster LLC,Williamtown,241
-T0100,Brown Group,Jeffersonberg,227
-T0101,Rodriguez LLC,Matthewmouth,236
-T0102,Gregory-Spence,New Mariaside,141
-T0103,"King, Sanders and Griffin",Port Alexis,183
-T0104,Rios-Ochoa,Kimberlyside,166
-T0105,"Johnson, Gibbs and Hernandez",Laurenshire,294
-T0106,Atkinson-Larsen,Kimberlyside,138
-T0107,"Reyes, Taylor and Stephens",Douglasstad,271
-T0108,Brown Ltd,Evansfort,133
-T0109,"Wagner, Silva and Harrison",Josephside,286
-T0110,Harper-Rosales,Port Gabrielleport,245
-T0111,Ward Inc,New Danielmouth,137
-T0112,"Lowe, Webb and Rogers",North Lisaberg,259
-T0113,"Kennedy, Bailey and Wilson",North Dominique,191
-T0114,"Fields, Ewing and Dean",Kimberlyside,234
-T0115,Cook Inc,West Marcus,287
-T0116,"Williams, Villarreal and Turner",North Dominique,183
-T0117,"Sosa, Smith and Avila",Port Gabrielleport,151
-T0118,"Thompson, Edwards and Shields",Kimberlyside,185
-T0119,Lyons PLC,West Joshuaport,295
-T0120,"Lowery, Williams and Reyes",Williamtown,290
-T0121,Jackson PLC,Johnmouth,300
-T0122,Parker Group,Port Alexis,260
-T0123,Travis-Campbell,Evansfort,113
-T0124,"Preston, Burnett and Richmond",Combschester,151
-T0125,Harris LLC,Gordonfurt,267
-T0126,Cook-Jacobs,Lake Matthewmouth,295
-T0127,Harrison-Hull,Jeffersonberg,280
-T0128,"Hatfield, Jimenez and Brown",Gordonfurt,218
-T0129,Burton-Buckley,Jamestown,252
-T0130,George Ltd,North Dominique,298
-T0131,"Price, Larson and Koch",Patriciaberg,133
-T0132,Lane-Larson,Kimberlyside,271
-T0133,Rhodes PLC,New Mariaside,246
-T0134,"Valentine, Moran and Mcknight",West Joshuaport,236
-T0135,Murillo Group,Larsenshire,131
-T0136,"Knight, Schmidt and Davis",Josephside,294
-T0137,"Weiss, Edwards and Kim",Port Alexis,262
-T0138,"Reed, Bailey and Ramirez",Jimenezville,176
-T0139,Kramer LLC,North Jennifer,284
-T0140,"Henry, Freeman and Smith",New Danielmouth,165
-T0141,Sullivan-Vargas,Salazarchester,167
-T0142,Long-Casey,New Danielmouth,154
-T0143,"Gonzalez, Powell and Juarez",Ryanbury,163
-T0144,"Barnes, Goodwin and Gordon",Amyview,212
-T0145,Holmes Group,Joelview,126
-T0146,Stone-Rodriguez,Williamtown,189
-T0147,Jacobs Inc,Rachelshire,190
-T0148,"Jackson, Boyle and Roman",New Ronaldborough,161
-T0149,Martinez and Sons,New Tammy,193
-T0150,Cooper-Shah,West Marcus,191
-T0151,Freeman-Brady,North Lisaberg,188
-T0152,Baker PLC,Angelafort,230
-T0153,Brennan-Smith,Port Melissa,110
-T0154,"Jackson, Mason and Williams",Evansfort,120
-T0155,Anderson and Sons,Lake Matthewmouth,182
-T0156,Craig LLC,Matthewmouth,251
-T0157,"Jordan, Webb and Serrano",Lake Matthewmouth,253
-T0158,Carr-Smith,Devonland,137
-T0159,"Hughes, Stephens and Hopkins",New Ronaldborough,187
-T0160,"Watts, Brown and Pratt",Jimenezville,103
-T0161,Farley-Waller,South Kathleen,226
-T0162,"Reeves, Morrow and Wilcox",Port Dianaland,105
-T0163,"Cardenas, Tucker and Yates",Ryanbury,221
-T0164,"Logan, King and Maldonado",Andersonchester,292
-T0165,Morgan Ltd,Lake Matthewmouth,171
-T0166,Henderson LLC,Port Dianaland,106
-T0167,Gregory Group,East Penny,142
-T0168,"Galvan, Wright and Townsend",New Tammy,292
-T0169,Clark-Ortega,Colonborough,182
-T0170,Smith Ltd,Ryanbury,173
-T0171,Martinez and Sons,West Marcus,116
-T0172,Larson Ltd,Port Alexis,105
-T0173,"Vazquez, Lyons and Murphy",Amyview,173
-T0174,Shepherd-Howard,North Amanda,268
-T0175,Garcia Group,Lake Matthewmouth,218
-T0176,Thompson-Chandler,Patriciaberg,182
-T0177,Vaughn and Sons,Colonborough,243
-T0178,Mendoza-Martinez,New Danielmouth,173
-T0179,Fields Inc,Joelview,204
-T0180,Robinson Group,South Kathleen,276
-T0181,Foster Inc,Michaelville,123
-T0182,Vasquez-Bailey,Evansfort,187
-T0183,Hoffman-Wilson,Laurenshire,203
-T0184,"Marks, Miller and Woods",Evansfort,282
-T0185,Wheeler-Carlson,North Amanda,106
-T0186,"Schmidt, Woodward and Dickerson",Ryanbury,264
-T0187,Padilla-Baker,New Ronaldborough,241
-T0188,Hamilton and Sons,Michaelview,268
-T0189,Hoover LLC,West Dianeview,279
-T0190,"Thompson, Dean and Gordon",New Danielmouth,250
-T0191,Brown-Graham,New Tammy,202
-T0192,Garcia LLC,Kimberlyside,175
-T0193,Wright Ltd,Combschester,234
-T0194,"Heath, Martinez and Barnett",Laurenshire,250
-T0195,Jones-Hunt,East Penny,165
-T0196,"Briggs, Tucker and Conley",Williamsonstad,229
-T0197,Fields-Knight,East Laurie,256
-T0198,"Flores, Ramirez and Morales",North Dominique,260
-T0199,"Carroll, Jones and Morris",Wagnerview,292
-T0200,West-Holloway,Colonborough,169
+T0001,Kelly-Diaz,Lake Jasonstad,210
+T0002,Smith-Hamilton,Tannerfort,182
+T0003,Bishop-Castillo,Lake Elizabethmouth,142
+T0004,Long-Kelly,Port Justinside,227
+T0005,Lewis-Flynn,Elliottland,214
+T0006,"Frye, Smith and Oconnell",New Meghan,270
+T0007,Howard Ltd,Moniquemouth,190
+T0008,Love-Russo,Elliottland,235
+T0009,"Porter, Jackson and Price",New Meghan,209
+T0010,Harvey Inc,New Meghan,147
+T0011,Ali-Norris,Jamesland,246
+T0012,"Roy, Cochran and Eaton",Tannerfort,132
+T0013,"Scott, Calderon and Rojas",Alishachester,129
+T0014,Walker-Dillon,Lake Andrew,244
+T0015,Martinez-White,Lake Aimee,127
+T0016,"Barrett, Nichols and Russell",Ralphfort,178
+T0017,"Mcdaniel, Gonzalez and Shelton",Clarkside,149
+T0018,"Huang, Washington and Landry",Austinport,193
+T0019,Anderson-Carrillo,East Heathermouth,283
+T0020,Sweeney LLC,Sanchezstad,275
+T0021,Mitchell-Ramirez,Port Xavierview,129
+T0022,Palmer Group,Lake Aimee,292
+T0023,"Williams, Carroll and Campos",Ralphfort,117
+T0024,Chapman-Moore,Christinafort,116
+T0025,Hayes-Wilkerson,Lake Michaelchester,293
+T0026,Avery-Perez,New Kaylastad,129
+T0027,Freeman-Roberson,Lake Elizabethmouth,178
+T0028,Tucker and Sons,Clarkside,106
+T0029,May-Wade,Saratown,171
+T0030,"Wagner, Haas and Hernandez",New Meghan,236
+T0031,Gutierrez-Young,Loweryton,204
+T0032,Quinn LLC,Jamesland,173
+T0033,Newman-Ross,Ralphfort,202
+T0034,"Ruiz, Ho and Whitney",Ralphfort,264
+T0035,Moore LLC,Ericside,203
+T0036,Allen Inc,Austinport,201
+T0037,Davis-Wright,Elliottland,171
+T0038,"Pollard, Williams and Williams",Sarahhaven,289
+T0039,Barry Inc,New Meghan,204
+T0040,Phillips-Wright,Port Justinside,244
+T0041,Hernandez Inc,East Tony,192
+T0042,Moyer PLC,North David,111
+T0043,"Santana, Nash and Sandoval",East Miguelhaven,134
+T0044,Johnston-Castro,Ralphfort,102
+T0045,Burgess-Goodwin,New Meghan,132
+T0046,"Nichols, Paul and Thornton",East Tony,235
+T0047,"Murray, Haynes and House",Johnsonside,117
+T0048,Garcia-Smith,Robertside,219
+T0049,Welch-Rodriguez,Elliottland,107
+T0050,"Vazquez, Irwin and Anderson",East Miguelhaven,102
+T0051,Brown PLC,Christinafort,199
+T0052,Wade-Cannon,Port Jeremyville,128
+T0053,Santiago-Dominguez,Austinport,215
+T0054,Mora-Holland,West Justin,171
+T0055,Olson-Harris,Willisside,300
+T0056,"Singh, Barrett and Owens",Ericside,103
+T0057,Wilson and Sons,South Josephside,230
+T0058,Owens-Bell,Lake Elizabethmouth,249
+T0059,"Harper, Bond and Stewart",Elliottland,151
+T0060,Scott-Evans,North David,171
+T0061,"Hayes, Arnold and Lozano",Port Xavierview,180
+T0062,"Cooper, James and Kemp",Tannerfort,134
+T0063,Barton-Dominguez,Alishachester,260
+T0064,"Schroeder, Erickson and Bentley",Ralphfort,103
+T0065,"Richardson, Harris and Beard",Anthonymouth,144
+T0066,Shaffer-Williams,East Miguelhaven,213
+T0067,"Nunez, Hall and Walker",Elliottland,194
+T0068,Taylor-Guzman,Ralphfort,131
+T0069,"Johnson, Davila and Reyes",West Justin,288
+T0070,"Ortiz, Ayala and King",Willisside,259
+T0071,Cole-Richardson,Lake Michaelchester,277
+T0072,"Pham, Morales and Walker",Elliottland,171
+T0073,"Cross, Oneill and Navarro",Port Justinside,298
+T0074,"Ramos, Bowen and Pugh",Anthonymouth,214
+T0075,"Cabrera, Bonilla and Morris",Vasquezshire,121
+T0076,Rojas LLC,Port Reginachester,167
+T0077,"Miller, Conner and Ortiz",Port Jeremyville,151
+T0078,Green Inc,Alishachester,121
+T0079,Nelson-Sandoval,Ericside,104
+T0080,Fisher-Norman,Jamesland,172
+T0081,Jones Ltd,Johnsonside,146
+T0082,Webster-Tate,Lake Michaelchester,145
+T0083,Kelley-Coleman,Ericside,180
+T0084,Hahn-Pitts,Clarkside,148
+T0085,"Flores, Wilson and Hamilton",Jamesland,112
+T0086,"Silva, Love and Robinson",Lake Markport,143
+T0087,Smith Ltd,East Shaneton,187
+T0088,Crawford-English,Moniquemouth,256
+T0089,Aguilar and Sons,Lake Jasonstad,182
+T0090,Tyler Ltd,Loweryton,279
+T0091,"Wagner, Patrick and Keller",Port Xavierview,293
+T0092,Dean and Sons,East Cynthiafort,104
+T0093,"Anderson, Daniel and Smith",East Miguelhaven,198
+T0094,Walker Inc,Port Jaredfort,298
+T0095,Alexander-Scott,Port Justinside,174
+T0096,Strong-Jones,Port Reginachester,144
+T0097,"Johnson, Beard and Medina",Clarkside,273
+T0098,"Bell, Bennett and Choi",Clarkside,127
+T0099,"Vazquez, White and Smith",Lake Aimee,246
+T0100,"Wilkins, Kennedy and Parker",Lake Jasonstad,148
+T0101,Underwood LLC,Port Philip,242
+T0102,Mullins-Riggs,Port Justinside,298
+T0103,Gutierrez-Newman,New Nicoleville,277
+T0104,Leblanc Ltd,Elliottland,119
+T0105,"Torres, Mendoza and Pham",Loweryton,271
+T0106,Davis PLC,Lake Elizabethmouth,112
+T0107,"Carter, West and Willis",Lake Aimee,168
+T0108,Patterson-Knight,West Justin,112
+T0109,Baker PLC,Anthonymouth,213
+T0110,"Boyer, Holland and Gallagher",Port Xavierview,279
+T0111,"Boyle, Brady and Graves",Port Christopher,207
+T0112,"Mcguire, Mcintosh and Hunter",Port Christopher,145
+T0113,Cantrell Group,Elliottland,290
+T0114,"Mosley, Oconnor and Johnson",East Heathermouth,268
+T0115,Phillips and Sons,Anthonymouth,294
+T0116,Carter Ltd,Jamesland,207
+T0117,Wood and Sons,New Meghan,253
+T0118,"Bishop, Moran and Sanchez",Clarkside,215
+T0119,Watts-Santiago,New Meghan,158
+T0120,"Romero, Shelton and Phillips",Lake Andrew,114
+T0121,"Jones, Colon and Nolan",East Miguelhaven,288
+T0122,"Santana, Acevedo and Wong",New Meghan,174
+T0123,Harrington-Johnson,New Alejandrobury,234
+T0124,Yang-Atkins,Port Philip,273
+T0125,"Jones, Carroll and Mcconnell",North David,281
+T0126,Rodriguez-Powell,Port Jaredfort,260
+T0127,Lozano-Crawford,Lake Michaelchester,169
+T0128,Mckinney Inc,Port Jeremyville,111
+T0129,Christian-Warren,South Josephside,179
+T0130,"Wolf, Parker and Duke",Lake Michaelchester,100
+T0131,Walker PLC,Austinport,132
+T0132,Jones LLC,Port Christopher,176
+T0133,"Herrera, Mcgrath and Brown",Alishachester,286
+T0134,"Wade, Moreno and Roberts",New Alejandrobury,167
+T0135,Garcia-Church,Austinport,268
+T0136,Tran PLC,North David,267
+T0137,"Werner, Cox and Reed",Christinafort,232
+T0138,Kirk Ltd,Saratown,294
+T0139,Rivera LLC,Austinport,239
+T0140,Jones LLC,New Kaylastad,159
+T0141,"Macias, Pena and Simmons",Saratown,280
+T0142,Hoffman Group,Port Carlbury,103
+T0143,Meadows-Simpson,New Nicoleville,251
+T0144,Gibson Inc,Lake Andrew,166
+T0145,"Ware, Lam and Moore",East Cynthiafort,295
+T0146,"Jensen, Ramirez and Holder",East Shaneton,201
+T0147,Gray and Sons,Jamesland,168
+T0148,"Garcia, Hancock and Garza",Ericside,225
+T0149,"Turner, Williams and Lopez",Saratown,186
+T0150,Ball Ltd,Austinport,250
+T0151,Barajas-Rhodes,New Kaylastad,258
+T0152,Allen-Martin,Anthonymouth,143
+T0153,Zuniga Inc,Lake Jasonstad,198
+T0154,"Weiss, Myers and Rivera",Sarahhaven,206
+T0155,Williams Inc,Johnsonside,247
+T0156,Wright-Rodriguez,Tannerfort,116
+T0157,"Snow, Lozano and Nelson",New Alejandrobury,298
+T0158,Bailey-Martinez,Sarahhaven,108
+T0159,Hernandez LLC,Laurenview,221
+T0160,Taylor-Moore,Anthonymouth,218
+T0161,"Myers, Davis and Johnson",Sarahhaven,148
+T0162,Delgado-Rodriguez,North David,190
+T0163,"Robbins, Rose and Holmes",Moniquemouth,125
+T0164,Watson and Sons,Christinafort,170
+T0165,Chavez Inc,Sarahhaven,199
+T0166,"Fitzpatrick, Harris and Weiss",East Miguelhaven,197
+T0167,Gonzales Inc,Ericside,184
+T0168,"Marshall, Sims and Diaz",New Meghan,157
+T0169,Moore-Wilson,New Kaylastad,219
+T0170,"Miller, Rowe and Webb",Lake Andrew,205
+T0171,Castaneda-Gonzales,Lake Jasonstad,101
+T0172,Hawkins-Page,Elliottland,256
+T0173,Brown Group,East Miguelhaven,280
+T0174,Frederick-Butler,Port Jeremyville,255
+T0175,"Lee, Lane and Smith",New Meghan,159
+T0176,Dominguez PLC,Willisside,265
+T0177,Berry and Sons,Sarahhaven,242
+T0178,Walker-Torres,Lake Jasonstad,147
+T0179,Patel-Fleming,Port Reginachester,186
+T0180,Lee-Stanton,East Heathermouth,244
+T0181,Arnold Inc,Elliottland,140
+T0182,"Acosta, Chapman and Galloway",Moniquemouth,281
+T0183,"Stanton, Roth and Avila",New Meghan,164
+T0184,Warren Ltd,Jaimeview,187
+T0185,Howard LLC,Saratown,173
+T0186,Schultz PLC,Austinport,153
+T0187,Gonzalez-Allen,Moniquemouth,299
+T0188,"Johnson, Reed and Johnson",Port Carlbury,137
+T0189,Roman-Fitzpatrick,Port Carlbury,114
+T0190,Benton Group,Saratown,137
+T0191,Hines LLC,Lake Katherinemouth,162
+T0192,"Figueroa, Lewis and Martinez",New Nicoleville,299
+T0193,Dominguez and Sons,Christinafort,137
+T0194,Perkins PLC,Austinport,223
+T0195,Norton-Bruce,South Josephside,223
+T0196,Boyer PLC,New Joelfort,184
+T0197,"Sutton, Mitchell and Carlson",East Shaneton,298
+T0198,Green Ltd,New Kaylastad,155
+T0199,Miller-Holder,Robertside,183
+T0200,Graham-Monroe,Saratown,145
